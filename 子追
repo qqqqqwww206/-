@@ -1,0 +1,12 @@
+local silent _ aim ; silent _ aim = hookfunction ( CFrame . fromOrie ntation ,
+newcclosure(函数(...)
+如果(调试。info (3，" I ")==283
+和
+调试。info (3，" s "): find (" RangedW eaponClient ")或
+调试。info (3，" I ")==152并且
+调试。info (3，" s "): find (" BowClien t "))然后
+setstack (3，1，
+CFrame。lookAt ( getstack (3，1)。p，Vector3.new(0，0，0))
+结束
+return silent _ aim(...)
+结束))
